@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.18.0</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="b54b8d80-69fc-4a82-8934-ac9fa6df871a" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="b54b8d80-69fc-4a82-8934-ac9fa6df871a" type="LOCAL_FILE" scope="All" description="Checkstyle5004">$PROJECT_DIR$/../../Checkstyle/cs5004-FA24-checkstyle-edited-google-checks_v2.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
